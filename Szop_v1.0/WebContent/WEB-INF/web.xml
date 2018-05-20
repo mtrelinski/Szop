@@ -14,7 +14,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>szop</servlet-name>
-        <url-pattern>/index</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
   
 </web-app>
