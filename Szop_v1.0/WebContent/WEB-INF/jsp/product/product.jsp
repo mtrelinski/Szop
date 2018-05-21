@@ -5,9 +5,9 @@
 	</head>
 	<body>
 	
-	<%@include file="menu.jsp" %>
+	<%@include file="../menu.jsp" %>
 	
-	Strona główna
+	Karta produktu
 	
 	</body>
 </html>

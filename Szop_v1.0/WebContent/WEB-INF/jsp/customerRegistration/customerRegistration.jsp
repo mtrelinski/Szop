@@ -5,9 +5,9 @@
 	</head>
 	<body>
 	
-	<%@include file="menu.jsp" %>
+	<%@include file="../menu.jsp" %>
 	
-	Strona główna
+	Rejestracja klienta
 	
 	</body>
 </html>
