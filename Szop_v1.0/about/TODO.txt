@@ -1,4 +1,6 @@
 Wojtek:
-
+1. project bazy danych
 
 Maciek:
+1. project bazy danych
+2. IoC
