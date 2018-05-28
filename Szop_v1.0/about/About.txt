@@ -1,3 +1,7 @@
+Strona na podstawie której zasetupowaliœmy aplikacjê:
 https://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/
+
+Strona aplikacji na lokalnym serwerze:
+http://localhost:8080/Szop_v1.0/productsList
 
 About o aplikacji
